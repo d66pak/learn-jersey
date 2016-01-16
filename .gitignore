@@ -1,0 +1,8 @@
+## Intellij related
+*.ipr
+*.iws
+*.iml
+.idea/
+
+## Build
+target/
